@@ -261,8 +261,8 @@ All your existing conversations will be preserved!
 | Tier | Price | Best For |
 |------|-------|----------|
 | **Free** | $0/month | General use, testing, non-sensitive data |
-| **Premium** | $99/month | Healthcare, legal, regulated industries |
-| **Enterprise** | Custom | Large organizations, multiple sites |
+| **Premium** | $99/One Time for 1 Website | Healthcare, legal, regulated industries |
+
 
 ---
 
