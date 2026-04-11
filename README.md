@@ -229,9 +229,9 @@ GPL v2 or later - See LICENSE file
 
 ## 🙋 Support
 
-- **Free Version Issues:** Check this README and comment in the [WordPress.org Plugin Forum](https://wordpress.org/support/plugin/ai-powered-chat-free/)
+- **Free Version Issues:** Check this README 
 - **Premium Version:** Contact support@microrepair.net
-- **Bug Reports:** [GitHub Issues](https://github.com/yourusername/ai-powered-chat-free)
+- **Bug Reports:** [GitHub Issues](https://github.com/jorodriguezpr/wordpress-chat-plugin-free)
 
 ---
 

@@ -269,7 +269,6 @@ All your existing conversations will be preserved!
 ## Questions?
 
 ### General Support (Free)
-- [WordPress.org Plugin Forum](https://wordpress.org/support/plugin/ai-powered-chat-free/)
 - Community-driven support
 
 ### Premium Support
