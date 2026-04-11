@@ -262,7 +262,7 @@ All your existing conversations will be preserved!
 |------|-------|----------|
 | **Free** | $0/month | General use, testing, non-sensitive data |
 | **Premium** | $99/One Time for 1 Website | Healthcare, legal, regulated industries |
-
+                (email support 30 days - 1 yr updates)
 
 ---
 
