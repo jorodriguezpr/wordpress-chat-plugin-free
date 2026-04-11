@@ -1,0 +1,286 @@
+/* Admin Styles */
+
+.apc-admin {
+	margin-top: 20px;
+	max-width: 1200px;
+}
+
+.apc-admin table.form-table {
+	margin-top: 20px;
+}
+
+.apc-admin table.form-table td {
+	vertical-align: top;
+	padding-top: 10px;
+}
+
+.apc-admin .required {
+	color: red;
+}
+
+.apc-admin .description {
+	font-size: 12px;
+	color: #666;
+	margin-top: 5px;
+	display: block;
+}
+
+.apc-admin input.regular-text,
+.apc-admin input.small-text,
+.apc-admin textarea.large-text,
+.apc-admin select {
+	max-width: 100%;
+}
+
+.apc-admin textarea {
+	font-family: 'Courier New', monospace;
+	font-size: 13px;
+}
+
+/* Cards */
+.apc-admin .card {
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 20px;
+	margin-top: 20px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.apc-admin .card h2 {
+	margin-top: 0;
+	padding-bottom: 15px;
+	border-bottom: 1px solid #eee;
+}
+
+/* Tabs */
+.nav-tab-wrapper {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+}
+
+.nav-tab {
+	background: #f5f5f5;
+	border: 1px solid #ccc;
+	border-bottom: none;
+	color: #0073aa;
+	padding: 8px 16px;
+	text-decoration: none;
+	display: inline-block;
+	margin-right: 5px;
+	margin-bottom: -1px;
+	border-radius: 3px 3px 0 0;
+}
+
+.nav-tab:hover {
+	background: #fff;
+}
+
+.nav-tab-active,
+.nav-tab-active:hover {
+	background: white;
+	color: #000;
+	border-bottom: 1px solid white;
+}
+
+/* Provider Status */
+.apc-providers-status {
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.apc-providers-status h2 {
+	margin-top: 0;
+}
+
+.apc-status-connected {
+	background-color: #f0f8f0;
+}
+
+.apc-status-disconnected {
+	background-color: #f8f0f0;
+}
+
+.badge-active {
+	background: #0073aa;
+	color: white;
+	padding: 3px 8px;
+	border-radius: 3px;
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.apc-provider-config {
+	border-left: 4px solid #0073aa;
+}
+
+.apc-provider-config h2 {
+	font-size: 18px;
+	margin-top: 0;
+}
+
+/* Conversations List */
+.apc-conversations-list {
+	background: white;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.apc-conversations-list table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 15px;
+}
+
+.apc-conversations-list th {
+	background-color: #f5f5f5;
+	padding: 10px;
+	text-align: left;
+	border-bottom: 2px solid #ddd;
+	font-weight: bold;
+}
+
+.apc-conversations-list td {
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.apc-conversations-list tr:hover {
+	background-color: #f9f9f9;
+}
+
+/* Status Icons */
+.dashicons {
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px;
+}
+
+/* Submission Details Modal */
+.apc-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 100000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.apc-modal-content {
+    background: white;
+    border-radius: 8px;
+    max-width: 600px;
+    width: 90%;
+    max-height: 80vh;
+    overflow-y: auto;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
+
+.apc-modal-header {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.apc-modal-header h3 {
+    margin: 0;
+}
+
+.apc-modal-close {
+    font-size: 28px;
+    cursor: pointer;
+    color: #666;
+    line-height: 1;
+}
+
+.apc-modal-close:hover {
+    color: #333;
+}
+
+.apc-modal-body {
+    padding: 20px;
+}
+
+.apc-empty-state {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.apc-empty-state h2 {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.apc-empty-state p {
+    color: #999;
+}
+
+/* Agent Status Toggle */
+.apc-agent-status-control {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.apc-status-toggle-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.apc-status-toggle {
+    display: none;
+}
+
+.apc-status-slider {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 26px;
+    background-color: #dc3545;
+    border-radius: 26px;
+    transition: background-color 0.3s;
+}
+
+.apc-status-slider::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 3px;
+    top: 3px;
+    background-color: white;
+    border-radius: 50%;
+    transition: transform 0.3s;
+}
+
+.apc-status-toggle:checked + .apc-status-slider {
+    background-color: #28a745;
+}
+
+.apc-status-toggle:checked + .apc-status-slider::before {
+    transform: translateX(24px);
+}
+
+.apc-status-text {
+    font-weight: 600;
+    font-size: 16px;
+}

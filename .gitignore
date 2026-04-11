@@ -1,0 +1,42 @@
+# Ignore sensitive files
+.env
+.env.local
+.env.*.local
+config.php
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# WordPress
+wp-config.php
+wp-content/
+wp-includes/
+
+# Vendor and dependencies
+vendor/
+node_modules/
+composer.lock
+
+# Logs
+*.log
+debug.log
+
+# Build files
+dist/
+build/
+
+# Testing
+phpunit.xml
+tests/coverage/
+
+# Temp files
+temp_*.txt
+*.tmp
+.temp/
+PROJECT_SUMMARY.md
