@@ -58,7 +58,7 @@ The **Premium HIPAA Compliance Version** includes enterprise-grade security feat
 ### Admin Dashboard - Settings
 The main settings page where you configure your AI provider, system prompt, and chat behavior.
 
-![AI Chat Settings](assets/images/settings-main.png)
+![AI Chat Settings](./assets/images/settings-main.png)
 
 ### AI Providers Configuration
 Configure and manage multiple AI providers (OpenAI, Claude, Gemini, GitHub Models) with provider status and active provider selection.
