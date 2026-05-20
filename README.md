@@ -58,52 +58,52 @@ The **Premium HIPAA Compliance Version** includes enterprise-grade security feat
 ### Admin Dashboard - Settings
 The main settings page where you configure your AI provider, system prompt, and chat behavior.
 
-![AI Chat Settings](assets/images/settings-main.jpg)
+![AI Chat Settings](assets/images/Ai-Chat-Menu.jpg)
 
 ### AI Providers Configuration
 Configure and manage multiple AI providers (OpenAI, Claude, Gemini, GitHub Models) with provider status and active provider selection.
 
-![Provider Configuration](assets/images/settings-providers.jpg)
+![Provider Configuration](assets/images/setttings-2.jpg)
 
 ### Chat Customization
 Customize your chat widget appearance and set custom welcome messages for users.
 
-![Chat Customization](assets/images/chat-customization.jpg)
+![Chat Customization](assets/images/custom-1.jpg)
 
 ### Conversations Management
 View and manage all user conversations with conversation details and user information.
 
-![Conversations Management](assets/images/conversations.jpg)
+![Conversations Management](assets/images/conversation-1.jpg)
 
 ### Predefined Responses
 Create automatic responses for common questions with keyword matching and HTML formatting support.
 
-![Predefined Responses](assets/images/predefined-responses.jpg)
+![Predefined Responses](assets/images/autoresponses-1.jpg)
 
 ### Forms Builder
 Create interactive forms that users can trigger within the chat widget.
 
-![Forms Builder](assets/images/forms-builder.jpg)
+![Forms Builder](assets/images/formbuilder-1.jpg)
 
 ### Quick Actions
 Configure persistent buttons in the chat widget for common commands or forms.
 
-![Quick Actions](assets/images/quick-actions.jpg)
+![Quick Actions](assets/images/quick-actions-1.jpg)
 
 ### Auto-Responses
 Set up automated responses to trigger specific actions or provide instant answers.
 
-![Auto Responses](assets/images/auto-responses.jpg)
+![Auto Responses](assets/images/autoresponses-1.jpg)
 
 ### Live Support
 Manage live support conversations and set your availability status.
 
-![Live Support](assets/images/live-support.jpg)
+![Live Support](assets/images/live-agent-support.jpg)
 
 ### Maintenance Tools
 Access database maintenance and reset tools for plugin management.
 
-![Maintenance](assets/images/maintenance.jpg)
+![Maintenance](assets/images/maintenance-1.jpg)
 
 ---
 
