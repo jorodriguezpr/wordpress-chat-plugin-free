@@ -39,20 +39,6 @@
 
 ---
 
-## ⚠️ What's NOT Included (Check Premium Version)
-
-The **Premium HIPAA Compliance Version** includes enterprise-grade security features:
-
-### 🔐 Premium Features
-- 🏥 **HIPAA Compliance** - Full HIPAA compliance for healthcare applications
-- 🔒 **End-to-End Encryption** - AES-256-GCM encryption for all conversation data
-- 📊 **Audit Logging** - Complete audit trail for compliance and security
-- 👥 **Role-Based Access Control** - Fine-grained permissions for viewing conversations
-- 🔑 **Encryption Key Management** - Secure key rotation and management
-- 📋 **Compliance Reporting** - Generate compliance reports
-
----
-
 ## � User Interface Preview
 
 ### Admin Dashboard - Settings
