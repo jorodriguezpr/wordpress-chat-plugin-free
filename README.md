@@ -53,7 +53,61 @@ The **Premium HIPAA Compliance Version** includes enterprise-grade security feat
 
 ---
 
-## 🚀 Quick Start
+## � User Interface Preview
+
+### Admin Dashboard - Settings
+The main settings page where you configure your AI provider, system prompt, and chat behavior.
+
+![AI Chat Settings](assets/images/settings-main.png)
+
+### AI Providers Configuration
+Configure and manage multiple AI providers (OpenAI, Claude, Gemini, GitHub Models) with provider status and active provider selection.
+
+![Provider Configuration](assets/images/settings-providers.png)
+
+### Chat Customization
+Customize your chat widget appearance and set custom welcome messages for users.
+
+![Chat Customization](assets/images/chat-customization.png)
+
+### Conversations Management
+View and manage all user conversations with conversation details and user information.
+
+![Conversations Management](assets/images/conversations.png)
+
+### Predefined Responses
+Create automatic responses for common questions with keyword matching and HTML formatting support.
+
+![Predefined Responses](assets/images/predefined-responses.png)
+
+### Forms Builder
+Create interactive forms that users can trigger within the chat widget.
+
+![Forms Builder](assets/images/forms-builder.png)
+
+### Quick Actions
+Configure persistent buttons in the chat widget for common commands or forms.
+
+![Quick Actions](assets/images/quick-actions.png)
+
+### Auto-Responses
+Set up automated responses to trigger specific actions or provide instant answers.
+
+![Auto Responses](assets/images/auto-responses.png)
+
+### Live Support
+Manage live support conversations and set your availability status.
+
+![Live Support](assets/images/live-support.png)
+
+### Maintenance Tools
+Access database maintenance and reset tools for plugin management.
+
+![Maintenance](assets/images/maintenance.png)
+
+---
+
+## �🚀 Quick Start
 
 ### 1. Installation
 
